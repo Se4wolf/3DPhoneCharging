@@ -20,5 +20,6 @@
 </p>
 
 ### Контакты
-* Смоделировал: <a href="https://vk.com/doobada">Артём Богданов</a>
+* VK: <a href="https://vk.com/doobada">Артём Богданов</a>
+* Gmail: bogdanov200412@gmail.com
 
