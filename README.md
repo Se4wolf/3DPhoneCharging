@@ -4,7 +4,7 @@
 ## Актуальность
 В наше время навык создания трёхмерной визуализации является очень важным для демонстрации продукта или использования в AR- и VR- приложениях.
 <p align="center">
-<img src="Examples/Blender.png" width="300" height="300" alt=""><br>
+<img src="Examples/Blender.png" width="200" height="200" alt=""><br>
 <i>Программа для создания 3D моделей</i>
 </p>  
 
@@ -21,5 +21,6 @@
 
 ### Контакты
 * VK: <a href="https://vk.com/doobada">Артём Богданов</a>
-* Gmail: bogdanov200412@gmail.com
+* mail: bogdanov200412@gmail.com
+
 
